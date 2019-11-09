@@ -1,0 +1,41 @@
+body{
+
+    background-color: lightskyblue;
+   
+    
+}
+
+#game {
+
+    
+    
+}
+
+
+.navbar-text{
+
+    background-color: blue;
+}
+
+.navbar {
+
+    background-color: green;
+}
+
+.my-row {
+    background-color: lightgray;
+    text-align: center;
+    padding: 20px;
+    
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: lightgray;
+    color: white;
+    text-align: center;
+    border-top: 6px solid rgb(182, 233, 182);
+  }
